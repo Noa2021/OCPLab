@@ -1,1 +1,0 @@
-{\n  "name": "ocplab-application",\n  "version": "0.1.0",\n  "description": "Basic Node.js application for OCPLab",\n  "main": "src/index.js",\n  "scripts": {\n    "start": "node src/index.js",\n    "test": "echo \"No tests\" && exit 0"\n  },\n  "author": "Noa2021",\n  "license": "MIT",\n  "engines": { "node": ">=14" }\n}
